@@ -1,2 +1,2 @@
 # NotBadEditor
-Create and test your web page
+Create and test your simple web page
